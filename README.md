@@ -1,7 +1,3 @@
-
-
-### **GitHub Repository Description:**
-
 # 🚀 **Blox Fruit Script Executor - Ultimate Blox Fruits Modding Tool**  
 **[![Download Blox Fruit Script Executor](https://img.shields.io/badge/Download-Blox%20Fruit%20Script%20Executor-blueviolet)](https://github.com/yourusername/blox-fruit-script-executor/releases)**
 
